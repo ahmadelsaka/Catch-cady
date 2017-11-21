@@ -14,6 +14,15 @@
 		E064E4861FC2C8100043B0C9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E064E4841FC2C8100043B0C9 /* LaunchScreen.storyboard */; };
 		E064E4911FC2C8100043B0C9 /* Catch_cadyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E064E4901FC2C8100043B0C9 /* Catch_cadyTests.swift */; };
 		E064E49C1FC2C8100043B0C9 /* Catch_cadyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E064E49B1FC2C8100043B0C9 /* Catch_cadyUITests.swift */; };
+		E064E4B21FC2CA3B0043B0C9 /* cady1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4A91FC2CA3B0043B0C9 /* cady1.jpg */; };
+		E064E4B31FC2CA3B0043B0C9 /* cady2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4AA1FC2CA3B0043B0C9 /* cady2.jpg */; };
+		E064E4B41FC2CA3B0043B0C9 /* cady3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4AB1FC2CA3B0043B0C9 /* cady3.jpg */; };
+		E064E4B51FC2CA3B0043B0C9 /* cady4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4AC1FC2CA3B0043B0C9 /* cady4.jpg */; };
+		E064E4B61FC2CA3B0043B0C9 /* cady5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4AD1FC2CA3B0043B0C9 /* cady5.jpg */; };
+		E064E4B71FC2CA3B0043B0C9 /* cady6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4AE1FC2CA3B0043B0C9 /* cady6.jpg */; };
+		E064E4B81FC2CA3B0043B0C9 /* cady7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4AF1FC2CA3B0043B0C9 /* cady7.jpg */; };
+		E064E4B91FC2CA3B0043B0C9 /* cady8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4B01FC2CA3B0043B0C9 /* cady8.jpg */; };
+		E064E4BA1FC2CA3B0043B0C9 /* cady9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E064E4B11FC2CA3B0043B0C9 /* cady9.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +56,15 @@
 		E064E4971FC2C8100043B0C9 /* Catch cadyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Catch cadyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E064E49B1FC2C8100043B0C9 /* Catch_cadyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catch_cadyUITests.swift; sourceTree = "<group>"; };
 		E064E49D1FC2C8100043B0C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E064E4A91FC2CA3B0043B0C9 /* cady1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady1.jpg; sourceTree = "<group>"; };
+		E064E4AA1FC2CA3B0043B0C9 /* cady2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady2.jpg; sourceTree = "<group>"; };
+		E064E4AB1FC2CA3B0043B0C9 /* cady3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady3.jpg; sourceTree = "<group>"; };
+		E064E4AC1FC2CA3B0043B0C9 /* cady4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady4.jpg; sourceTree = "<group>"; };
+		E064E4AD1FC2CA3B0043B0C9 /* cady5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady5.jpg; sourceTree = "<group>"; };
+		E064E4AE1FC2CA3B0043B0C9 /* cady6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady6.jpg; sourceTree = "<group>"; };
+		E064E4AF1FC2CA3B0043B0C9 /* cady7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady7.jpg; sourceTree = "<group>"; };
+		E064E4B01FC2CA3B0043B0C9 /* cady8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady8.jpg; sourceTree = "<group>"; };
+		E064E4B11FC2CA3B0043B0C9 /* cady9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cady9.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +121,15 @@
 				E064E4821FC2C8100043B0C9 /* Assets.xcassets */,
 				E064E4841FC2C8100043B0C9 /* LaunchScreen.storyboard */,
 				E064E4871FC2C8100043B0C9 /* Info.plist */,
+				E064E4A91FC2CA3B0043B0C9 /* cady1.jpg */,
+				E064E4AA1FC2CA3B0043B0C9 /* cady2.jpg */,
+				E064E4AB1FC2CA3B0043B0C9 /* cady3.jpg */,
+				E064E4AC1FC2CA3B0043B0C9 /* cady4.jpg */,
+				E064E4AD1FC2CA3B0043B0C9 /* cady5.jpg */,
+				E064E4AE1FC2CA3B0043B0C9 /* cady6.jpg */,
+				E064E4AF1FC2CA3B0043B0C9 /* cady7.jpg */,
+				E064E4B01FC2CA3B0043B0C9 /* cady8.jpg */,
+				E064E4B11FC2CA3B0043B0C9 /* cady9.jpg */,
 			);
 			path = "Catch cady";
 			sourceTree = "<group>";
@@ -233,7 +260,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				E064E4861FC2C8100043B0C9 /* LaunchScreen.storyboard in Resources */,
+				E064E4B31FC2CA3B0043B0C9 /* cady2.jpg in Resources */,
 				E064E4831FC2C8100043B0C9 /* Assets.xcassets in Resources */,
+				E064E4B21FC2CA3B0043B0C9 /* cady1.jpg in Resources */,
+				E064E4B51FC2CA3B0043B0C9 /* cady4.jpg in Resources */,
+				E064E4B41FC2CA3B0043B0C9 /* cady3.jpg in Resources */,
+				E064E4B81FC2CA3B0043B0C9 /* cady7.jpg in Resources */,
+				E064E4B61FC2CA3B0043B0C9 /* cady5.jpg in Resources */,
+				E064E4B91FC2CA3B0043B0C9 /* cady8.jpg in Resources */,
+				E064E4B71FC2CA3B0043B0C9 /* cady6.jpg in Resources */,
+				E064E4BA1FC2CA3B0043B0C9 /* cady9.jpg in Resources */,
 				E064E4811FC2C80F0043B0C9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
